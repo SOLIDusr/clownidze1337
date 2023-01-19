@@ -1,16 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
+</div>
 
-<!--
-**clownidze1337/clownidze1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/vladyslavq/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instgram Badge"/>
+  </a>
+  <a href="https://t.me/clownidze1337">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt="Telegram Badge"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">🛠
+  </p>
+<p align="center">💻 Python | JavaScript | C++ | MySQL 💻
+                 </p>
+<p align="center">🔧 PyCharm | VScode 🔧
+                 </p>
+<p align="center">🖥 Macbook Air M1 🖥
+                 </p>
