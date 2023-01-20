@@ -14,9 +14,9 @@
 
 <p align="center">🛠
   </p>
-<p align="center">💻 Python | JavaScript | C++ | MySQL 💻
+<p align="center">🖥 Python | JavaScript | C++  🖥
                  </p>
 <p align="center">🔧 PyCharm | VScode 🔧
                  </p>
-<p align="center">🖥 Macbook Air M1 🖥
+<p align="center">💻 Macbook Air M1 💻
                  </p>
